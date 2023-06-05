@@ -13,8 +13,6 @@ const MovieList: React.FC<MovieListProps> = ({
     title
 }) => {
 
-    console.log('data', data)
-
     if (isEmpty(data)) {
         return null;
     }
