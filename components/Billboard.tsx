@@ -71,7 +71,7 @@ const Billboard = () => {
                         w-auto
                         text-xs lg:text-lg
                         font-semibold
-                        flex
+                        flex            
                         flex-row
                         items-center
                         hover:bg-opacity-20
