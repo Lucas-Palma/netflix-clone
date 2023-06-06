@@ -3,11 +3,15 @@ This is a repository for a FullStack Netflix Clone tutorial using React, NextJS,
 Features:
 
 - Typescript
-- MongoDB & Prisma connect
+- MongoDB & Prisma connection
 - Database creation
-- Authentication with NextAuth
-- Google & Github Login
+- Tailwind design
+- Credential authentication
+- Github and Google authentication
 - API and Controllers creation
+- POST and DELETE routes in route handlers (app/api)
 - React SWR data fetching
 - Zustand state management
 - Fully responsive
+
+DEMO: https://movies-app-seven-murex.vercel.app/auth
