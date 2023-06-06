@@ -159,6 +159,9 @@ const Auth = () => {
                                 {variant === 'login' ? 'Create an account' : 'Login'}
                             </span>
                         </p>
+                        <p className="text-neutral-500 mt-12">
+                            This is not a real auth site.
+                        </p>
                     </div> 
                 </div>
             </div>
