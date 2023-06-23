@@ -1,4 +1,4 @@
-This is a repository for a FullStack Netflix Clone tutorial using React, NextJS, TailwindCSS, MongoDB & Prisma.
+This is a repository for a FullStack Watch Movies App using React, NextJS, TailwindCSS, MongoDB & Prisma.
 
 Features:
 
